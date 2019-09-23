@@ -25,3 +25,4 @@ while 1 <= x:
     print(i)
   i += 1
 print([i for i in range(x) if not x % i])'''
+#gel
